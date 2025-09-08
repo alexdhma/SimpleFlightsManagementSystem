@@ -2,6 +2,10 @@
 
 This project was created for my Object-Oriented Programming I class (COMP248 - Winter 2025) and later modified after completing Object-Oriented Programming II (COMP249 - Summer 2025).
 
+It is built using Java and demonstrates concepts such as
+- oop concepts (classes, methods, encapsulation)
+- error handling
+
 ## Features
 - modify flight details (name, code, permit, pilot)
 - add/delete flight attendants and passengers
