@@ -17,4 +17,4 @@ It is built using Java and demonstrates concepts such as
 3. compile and run Main.java
 
 ## Author
-Alexane Masse - Computer Science Undergraduate
+Alexane Masse - Co-op Computer Science Undergraduate
